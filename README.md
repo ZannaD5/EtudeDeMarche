@@ -1,4 +1,4 @@
 # EtudeDeMarche  
-étude de marché avec une notebook de préparation et un notebook de visualisation  
-
-Données récupérées sur le site de la FAO
+étude de marché pour optimiser l'exportation de produit alimentaire
+* notebook 1: préparation, nettoyage, analyse exploratoire (données récupérées sur le site de la FAO)
+* notebook 2: clustering et visualization (classification hiérarchique ascendante, K-means, ACP)
